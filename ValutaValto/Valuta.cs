@@ -13,8 +13,6 @@ using Newtonsoft.Json.Converters;
 
 namespace ValutaValto
 {
-    
-
     public partial class valutavaltas
     {
         [JsonProperty("success")]
